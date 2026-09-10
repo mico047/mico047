@@ -27,3 +27,7 @@ Meu objetivo é aplicar os conhecimentos adquiridos em projetos reais, evoluindo
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mico047&layout=compact)
