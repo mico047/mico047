@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou Alan Urbainski Martins 👋
 
-<!--
-**mico047/mico047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em formação, com foco no desenvolvimento de aplicações web e aprendizado contínuo de novas tecnologias.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Flask
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+- Git
+- GitHub
+
+## 🚀 Atualmente estudando
+
+Desenvolvimento Full Stack, criação de APIs REST, integração entre Front-end e Back-end, consumo de APIs públicas e persistência de dados em bancos relacionais.
+
+## 📚 Projetos
+
+Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos, aulas e práticas de programação.
+
+Meu objetivo é aplicar os conhecimentos adquiridos em projetos reais, evoluindo continuamente como desenvolvedor.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
